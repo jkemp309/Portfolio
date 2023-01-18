@@ -1,7 +1,6 @@
 import './stylesheet.css'
 import * as THREE from './three.js';
-import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader'
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
+
 
 let scene, camera, renderer, starBox, stars, vertices;
 
